@@ -165,7 +165,7 @@
     /**
      * Preloader
      */
-    let preloader = select('#preloader1');
+    let preloader = select('#preloader');
     if (preloader) {
         window.addEventListener('load', () => {
             preloader.remove()
@@ -312,13 +312,3 @@ var sakura = new Sakura('#fstAnimation', {
     }, ],
     delay: 200,
 });
-
-document.onreadystatechange = function() {
-    if (document.readyState === "complete") {
-        $("#panel_left").addClass("panel_left");
-        $("#panel_right").addClass("panel_right");
-        $("#loader").addClass("loaded-circle");
-        $("#loader-img").addClass("loaded-img");
-        $("#preloader1").addClass("loaded-img");
-    }
-}
