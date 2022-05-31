@@ -591,19 +591,19 @@ h6 {
 #line {
     text-align: center;
     width: 52%;
-    margin-top: -275px;
+    margin-top: -288px;
 }
 
 #eng_img {
     text-align: center;
     width: 63%;
-    margin-top: -160px;
+    margin-top: -226px;
 }
 
 #top-img {
     text-align: center;
-    width: 19%;
-    margin-bottom: -100px;
+    width: 28%;
+    margin-bottom: -150px;
     /* height: 262px; */
 }
 
@@ -660,7 +660,7 @@ h6 {
         text-align: center;
         width: 62%;
         /* margin-top: -238px; */
-        margin-top: 94px;
+        margin-top: 85px;
     }
 }
 
@@ -677,13 +677,14 @@ h6 {
     #eng_img {
         text-align: center;
         width: 63%;
-        margin-top: -30px;
+        margin-top: -50px;
     }
 }
 
 @media only screen and (max-width: 430px) {
     #eng_img {
         width: 100%;
+        margin-top: -25px;
     }
 }
 
@@ -691,6 +692,8 @@ h6 {
     #top-img {
         text-align: center;
         width: 30%;
+        margin-top: -70px;
+        margin-bottom: -103px;
         /* height: 295px; */
     }
 }
@@ -698,7 +701,8 @@ h6 {
 @media only screen and (max-width: 430px) {
     #top-img {
         text-align: center;
-        width: 60%;
+        width: 79%;
+        margin-bottom: -100px;
         /* height: 300px; */
     }
 }
