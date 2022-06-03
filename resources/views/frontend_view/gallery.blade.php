@@ -566,6 +566,29 @@
             </div>
         </div>
     </section>
+    <section id="services" class="services">
+
+        <div class="container" data-aos="fade-up">
+            <div class="row  list">
+                @php $gallery = DB::table('gallery')->where('active', '1')->orderBy('id','desc')->get();@endphp
+                @foreach($gallery as $image)
+
+                @foreach(explode(' /', $image->photo) as $value)
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                    <a href="{{URL::asset('')}}gallery/{{$value}}" data-gallery="portfolioGallery"
+                        class="portfolio-lightbox preview-link"><img src="{{URL::asset('')}}gallery/{{$value}}"
+                            class="img-fluid" alt="" /></a>
+                </div>
+
+                <!-- </div> -->
+                @endforeach
+
+                @endforeach
+            </div>
+        </div>
+
+    </section>
     <!-- End Portfolio Section -->
 
     <!-- ======= Contact Section ======= -->
@@ -652,6 +675,9 @@
     </section>
     <!-- End Contact Section -->
     </main>
+
+
+
     <!-- End #main -->
 
     <!-- ======= Footer ======= -->

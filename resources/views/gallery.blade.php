@@ -255,36 +255,32 @@
                 </div>
                 <div class="modal-body">
 
-                    <form id="Editform" class="needs-validation" novalidate>
+                    <form id="Editform">
                         <div class="row g-2">
 
                             <div class="col-sm-12 mb-0">
 
-                                <label for="emailBasic" class="form-label">Title <span
-                                        class="edd_title star">*</span></label>
+                                <label for="emailBasic">Title <span class="edd_title star">*</span></label>
                                 <input type="hidden" name="id">
-                                <input type="text" id="edit_title" name="title" class="form-control" required>
+                                <input type="text" id="edit_title" name="title" class="form-control">
 
                             </div>
                             <div class="col-sm-6 mb-0">
-                                <!-- <label for="dobBasic" class="form-label">Date</label> -->
-                                <input type="hidden" id="edit_date" required name="date"
+                                <!-- <label for="dobBasic" >Date</label> -->
+                                <input type="hidden" id="edit_date" name="date"
                                     value="<?php date_default_timezone_set('Asia/Calcutta'); echo date("m-d-Y / H:i:s"); ?>"
                                     class="form-control">
-                                <!-- <input type="text" id="edit_date" required name="date" class="form-control edit_date_datepec"> -->
+                                <!-- <input type="text" id="edit_date"  name="date" class="form-control edit_date_datepec"> -->
                             </div>
 
                         </div>
                         <div class="row">
                             <div class="col-sm-12 mb-3">
-                                <label for="nameBasic" class="form-label">Description<span
-                                        class="edd_des star">*</span></label>
-                                <input type="text" id="edit_description" required name="description"
-                                    class="form-control">
+                                <label for="nameBasic">Description<span class="edd_des star">*</span></label>
+                                <input type="text" id="edit_description" name="description" class="form-control">
                             </div>
                             <div class="col-sm-12">
-                                <label for="nameBasic" class="form-label">Photo upload<span
-                                        class="photo_alert star">*</span></label>
+                                <label for="nameBasic">Photo upload<span class="photo_alert star">*</span></label>
                                 <div>
                                     <div class="border_style file_image_edit">
                                         <button type="button" class="btn btn-secondary video_edit w-100 mb-3">
