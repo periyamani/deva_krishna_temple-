@@ -48,6 +48,6 @@ Route::get('/frontend_view.home', function () {
     return view('frontend_view.home');
 });
 
-Route::get('/user/gallery', function () {
+Route::get('/gallerylist', function () {
     return view('frontend_view.gallery');
 });

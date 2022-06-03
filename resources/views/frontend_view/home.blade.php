@@ -36,7 +36,7 @@
         <div class="container" data-aos="fade-up">
             <div class="section-title">
                 <h2>எங்களை பற்றி</h2>
-                <h3>கோவிலை பற்றி  <span>மேலும் தெரிந்துகொள்ள</span></h3>
+                <h3>கோவிலை பற்றி <span>மேலும் தெரிந்துகொள்ள</span></h3>
                 {{-- <p>
                     Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque
                     vitae autem.
@@ -53,10 +53,14 @@
                         Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.
                     </h3> --}}
                     <p class="fst-italic">
-                        பெரியகாடம்பட்டி தாரமங்கலம் ஓமலூர் மெயின் ரோடு சேலம் மாவட்டம் எனும் ஊரில் அமைந்து உள்ளது நமது தேவ கிருஷ்ணா திருக்கோவில்.
-                        <br><br> சித்திரை மாதம் 2- ஆம் நாள் (15.04.2022) வெள்ளிக்கிழமை மஹாசம்ப்ரோக்ஷணம் (எனும்) மஹா கும்பாபிஷேக விழா கோலாகலமாக நடைபெற்றது. 
-                        <br><br>அன்று கோவிலுக்கு வந்த அனைத்து பக்தகோடிகளும் கிருஷ்ணரின் அருளாசியை மனநிறைவுடன் பெற்றுச்சென்றனர்.<br><br>
-இனிவரவிருக்கும் பக்தகோடிகளுக்கும் தனது பூரண அருளாசியை வழங்க கிருஷ்ண பகவான் கொலு வீற்றிருக்கிறார்.
+                        பெரியகாடம்பட்டி தாரமங்கலம் ஓமலூர் மெயின் ரோடு சேலம் மாவட்டம் எனும் ஊரில் அமைந்து உள்ளது நமது தேவ
+                        கிருஷ்ணா திருக்கோவில்.
+                        <br><br> சித்திரை மாதம் 2- ஆம் நாள் (15.04.2022) வெள்ளிக்கிழமை மஹாசம்ப்ரோக்ஷணம் (எனும்) மஹா
+                        கும்பாபிஷேக விழா கோலாகலமாக நடைபெற்றது.
+                        <br><br>அன்று கோவிலுக்கு வந்த அனைத்து பக்தகோடிகளும் கிருஷ்ணரின் அருளாசியை மனநிறைவுடன்
+                        பெற்றுச்சென்றனர்.<br><br>
+                        இனிவரவிருக்கும் பக்தகோடிகளுக்கும் தனது பூரண அருளாசியை வழங்க கிருஷ்ண பகவான் கொலு
+                        வீற்றிருக்கிறார்.
 
                     </p>
                     {{-- <ul>
@@ -120,7 +124,7 @@
         <div class="container" data-aos="fade-up">
             <div class="section-title">
                 <h2>டிரஸ்ட்</h2>
-                <h3>டிரஸ்ட் பற்றி  <span>மேலும் தெரிந்துகொள்ள</span></h3>
+                <h3>டிரஸ்ட் பற்றி <span>மேலும் தெரிந்துகொள்ள</span></h3>
                 {{-- <p>
                     Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque
                     vitae autem.
@@ -134,16 +138,17 @@
                         Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.
                     </h3> --}}
                     <p class="fst-italic">
-                        பெரியகாடம்பட்டி யில் அமைந்து உள்ள தேவ கிருஷ்ண டிரஸ்ட் எனும் ஸ்தாபனம் மூலமாக நமது தேவ கிருஷ்ண கோவில் நிறுவப்பட்டுள்ளது.<br><br> 
-இதன் நிறுவனர்களான 
-<br>
-<br>
-திருமதி U.தேவகி B.Sc.,B.Ed., அவர்கள் <br>
-Chairman, தேவ கிருஷ்ண டிரஸ்ட்
-<br>
-<br>
-Dr.C.உமாகாந்தன் M.B.B.S., அவர்கள் <br>
-Secretary, தேவ கிருஷ்ண டிரஸ்ட்
+                        பெரியகாடம்பட்டி யில் அமைந்து உள்ள தேவ கிருஷ்ண டிரஸ்ட் எனும் ஸ்தாபனம் மூலமாக நமது தேவ கிருஷ்ண
+                        கோவில் நிறுவப்பட்டுள்ளது.<br><br>
+                        இதன் நிறுவனர்களான
+                        <br>
+                        <br>
+                        திருமதி U.தேவகி B.Sc.,B.Ed., அவர்கள் <br>
+                        Chairman, தேவ கிருஷ்ண டிரஸ்ட்
+                        <br>
+                        <br>
+                        Dr.C.உமாகாந்தன் M.B.B.S., அவர்கள் <br>
+                        Secretary, தேவ கிருஷ்ண டிரஸ்ட்
                     </p>
                     {{-- <ul>
                         <li>
@@ -225,556 +230,45 @@ Secretary, தேவ கிருஷ்ண டிரஸ்ட்
     </section>
     <!-- End Trust Section -->
 
-    <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio1" class="portfolio">
+
+
+    <!-- ======= Gallery Section ======= -->
+    <section id="services" class="services">
+        <div class="section-title">
+            <h2>புகைப்படம்</h2>
+            <h3>அனைத்து புகைப்படத்தையும்<span>பார்க்கவும்</span></h3>
+            <p>
+                படங்கள் நமது தேவ கிருஷ்ணா கோவில் மகா கும்பாபிஷேக விழா படங்கள் மற்றும் நமது கோவிலின் படங்களை இங்க
+                காணலாம்
+            </p>
+        </div>
         <div class="container" data-aos="fade-up">
-            <div class="section-title">
-                <h2>புகைப்படம்</h2>
-                <h3>அனைத்து புகைப்படத்தையும்<span>பார்க்கவும்</span></h3>
-                <p>
-                    படங்கள் நமது தேவ கிருஷ்ணா கோவில் மகா கும்பாபிஷேக விழா படங்கள் மற்றும் நமது கோவிலின் படங்களை இங்க காணலாம்
-                </p>
-            </div>
-
-            <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <a href="frontend_css/assets/img/gallery/g1.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g1.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g2.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g2.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <a href="frontend_css/assets/img/gallery/g3.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g3.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <a href="frontend_css/assets/img/gallery/g4.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g4.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g5.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title="2"><img
-                            src="frontend_css/assets/img/gallery/g5.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g6.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g6.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <a href="frontend_css/assets/img/gallery/g7.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g7.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <a href="frontend_css/assets/img/gallery/g8.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g8.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g9.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g9.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <a href="frontend_css/assets/img/gallery/g10.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g10.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-                <!-- 10 -->
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <a href="frontend_css/assets/img/gallery/g11.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g11.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g12.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g12.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <a href="frontend_css/assets/img/gallery/g13.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g13.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <a href="frontend_css/assets/img/gallery/g14.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g14.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g15.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title="2"><img
-                            src="frontend_css/assets/img/gallery/g15.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g16.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g16.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <a href="frontend_css/assets/img/gallery/g17.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g17.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <a href="frontend_css/assets/img/gallery/g18.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g18.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g19.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g19.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <a href="frontend_css/assets/img/gallery/g20.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g20.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-                <!-- 10 -->
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <a href="frontend_css/assets/img/gallery/g21.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g21.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g22.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g22.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <a href="frontend_css/assets/img/gallery/g23.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g23.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <a href="frontend_css/assets/img/gallery/g24.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g24.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g25.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title="2"><img
-                            src="frontend_css/assets/img/gallery/25.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g26.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/26.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <a href="frontend_css/assets/img/gallery/g27.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g27.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <a href="frontend_css/assets/img/gallery/g28.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g28.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g29.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g29.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <a href="frontend_css/assets/img/gallery/g30.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g30.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <!-- 10 -->
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <a href="frontend_css/assets/img/gallery/g31.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g31.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g32.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g32.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <a href="frontend_css/assets/img/gallery/g33.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g33.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <a href="frontend_css/assets/img/gallery/g34.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g34.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g35.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title="2"><img
-                            src="frontend_css/assets/img/gallery/35.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g36.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/36.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <a href="frontend_css/assets/img/gallery/g37.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g37.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <a href="frontend_css/assets/img/gallery/g38.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g38.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g39.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g39.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <a href="frontend_css/assets/img/gallery/g40.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g40.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-                <!-- 10 -->
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <a href="frontend_css/assets/img/gallery/g41.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g41.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g42.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g42.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <a href="frontend_css/assets/img/gallery/g43.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g43.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <a href="frontend_css/assets/img/gallery/g44.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g44.jpeg" class="img-fluid" alt="" /></a>
+            <div class="row">
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+                    <img src="frontend_css/assets/img/gallery/g32.jpeg" class="img-fluid" style="object-fit: cover; " />
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g45.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title="2"><img
-                            src="frontend_css/assets/img/gallery/g45.jpeg" class="img-fluid" alt="" /></a>
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in"
+                    data-aos-delay="200">
+                    <img src="frontend_css/assets/img/gallery/g52.jpeg" class="img-fluid" style="object-fit: cover; " />
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g46.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g46.jpeg" class="img-fluid" alt="" /></a>
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in"
+                    data-aos-delay="300">
+                    <img src="frontend_css/assets/img/gallery/g29.jpeg" class="img-fluid" style="object-fit: cover; " />
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <a href="frontend_css/assets/img/gallery/g47.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g47.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <a href="frontend_css/assets/img/gallery/g48.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g48.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g49.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g49.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <a href="frontend_css/assets/img/gallery/g50.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g50.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-                <!-- 10 -->
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <a href="frontend_css/assets/img/gallery/g51.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g51.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g52.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g52.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <a href="frontend_css/assets/img/gallery/g53.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g53.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <a href="frontend_css/assets/img/gallery/g54.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g54.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g55.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title="2"><img
-                            src="frontend_css/assets/img/gallery/g55.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g56.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g56.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <a href="frontend_css/assets/img/gallery/g57.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g57.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <a href="frontend_css/assets/img/gallery/g58.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g58.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g59.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g59.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <a href="frontend_css/assets/img/gallery/g60.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g60.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-                <!-- 10 -->
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <a href="frontend_css/assets/img/gallery/g61.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g61.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g62.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g62.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <a href="frontend_css/assets/img/gallery/g63.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g63.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <a href="frontend_css/assets/img/gallery/g64.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g64.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g65.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title="2"><img
-                            src="frontend_css/assets/img/gallery/65.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g66.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/66.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <a href="frontend_css/assets/img/gallery/g67.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g67.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <a href="frontend_css/assets/img/gallery/g68.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g68.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g69.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g69.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <a href="frontend_css/assets/img/gallery/g70.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g70.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <!-- 10 -->
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <a href="frontend_css/assets/img/gallery/g71.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g71.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g72.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g72.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <a href="frontend_css/assets/img/gallery/g73.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g73.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <a href="frontend_css/assets/img/gallery/g74.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g74.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g75.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title="2"><img
-                            src="frontend_css/assets/img/gallery/75.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g76.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/76.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <a href="frontend_css/assets/img/gallery/g77.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g77.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <a href="frontend_css/assets/img/gallery/g78.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g78.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g79.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g79.jpeg" class="img-fluid" alt="" /></a>
-                </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <a href="frontend_css/assets/img/gallery/g80.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g80.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <!-- 10 -->
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <a href="frontend_css/assets/img/gallery/g81.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g81.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g82.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g82.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <a href="frontend_css/assets/img/gallery/g83.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g83.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <a href="frontend_css/assets/img/gallery/g84.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g84.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g85.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title="2"><img
-                            src="frontend_css/assets/img/gallery/85.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g86.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/86.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <a href="frontend_css/assets/img/gallery/g87.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g87.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <a href="frontend_css/assets/img/gallery/g88.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g88.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                    <a href="frontend_css/assets/img/gallery/g89.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g89.jpeg" class="img-fluid" alt="" /></a>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                    <a href="frontend_css/assets/img/gallery/g90.jpeg" data-gallery="portfolioGallery"
-                        class="portfolio-lightbox preview-link" title=""><img
-                            src="frontend_css/assets/img/gallery/g90.jpeg" class="img-fluid" alt="" /></a>
-                </div>
             </div>
         </div>
+        <div class="text-center mt-5">
+            <a href="{{URL::asset('/gallerylist')}}" class="default-btn move-right"><span>View All</span></a>
+        </div>
+
     </section>
-    <!-- End Portfolio Section -->
+    <!-- End Gallery Section -->
+
+
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact section-bg">
@@ -870,7 +364,9 @@ Secretary, தேவ கிருஷ்ண டிரஸ்ட்
                 <div class="col-lg-6 col-md-6 footer-contact">
                     <h3>தேவ கிருஷ்ணா திருக்கோவில்<span>.</span></h3>
                     <p>
-                        மது கிருஷ்ணா பகவான் தமது அருள்நிறைந்த ஆசிர்வாதங்களை நமக்கு வழங்கும் வண்ணம் அருள்பாளித்து கொண்டிருக்கிறார் இந்த தேவ கிருஷ்ணரின் உருவச்சிலையை காண காண மனம் அனைத்து துயரையும் மறந்து மகிழ்ச்சியில் திளைக்கிறது.
+                        மது கிருஷ்ணா பகவான் தமது அருள்நிறைந்த ஆசிர்வாதங்களை நமக்கு வழங்கும் வண்ணம் அருள்பாளித்து
+                        கொண்டிருக்கிறார் இந்த தேவ கிருஷ்ணரின் உருவச்சிலையை காண காண மனம் அனைத்து துயரையும் மறந்து
+                        மகிழ்ச்சியில் திளைக்கிறது.
                     </p>
                 </div>
 
