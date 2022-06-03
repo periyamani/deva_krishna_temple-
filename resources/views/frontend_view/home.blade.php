@@ -7,7 +7,7 @@
 
 @section('content')
 <section id="hero" class="d-flex align-items-center">
-    <div class="container">
+    {{-- <div class="container">
         <div class="col-12 img_align">
             <img src="frontend_css/assets/img/indexBanner/1.png" class="img-fluid" alt="" id="top-img" />
             <img src="frontend_css/assets/img/2_2.png" class="img-fluid" alt="" id="top-img" />
@@ -26,7 +26,7 @@
         <div class="img_align">
             <img src="frontend_css/assets/img/indexBanner/name_english.png" class="img-fluid" alt="" id="eng_img" />
         </div>
-    </div>
+    </div> --}}
 </section>
 <!-- End Hero -->
 
@@ -236,7 +236,7 @@
     <section id="services" class="services">
         <div class="section-title">
             <h2>புகைப்படம்</h2>
-            <h3>அனைத்து புகைப்படத்தையும்<span>பார்க்கவும்</span></h3>
+            <h3>அனைத்து புகைப்படத்தையும் <span>பார்க்கவும்</span></h3>
             <p>
                 படங்கள் நமது தேவ கிருஷ்ணா கோவில் மகா கும்பாபிஷேக விழா படங்கள் மற்றும் நமது கோவிலின் படங்களை இங்க
                 காணலாம்
@@ -261,7 +261,7 @@
 
             </div>
         </div>
-        <div class="text-center mt-5">
+        <div class="text-center mt-3">
             <a href="{{URL::asset('/gallerylist')}}" class="default-btn move-right"><span>View All</span></a>
         </div>
 
@@ -275,7 +275,7 @@
         <div class="container" data-aos="fade-up">
             <div class="section-title">
                 <h2>தொடர்புக்கு</h2>
-                <h3><span>எங்களை தொடர்பு கொள்ள</span></h3>
+                <h3>எங்களை<span> தொடர்பு கொள்ள</span></h3>
                 {{-- <p>
                     Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque
                     vitae autem.
@@ -311,13 +311,13 @@
             </div>
 
             <div class="row" data-aos="fade-up" data-aos-delay="100">
-                <div class="col-lg-6">
+                <div class="col-lg-12">
                     <iframe class="mb-4 mb-lg-0"
                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62507.41488226253!2d77.92751669883727!3d11.714697830762008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3babfd6ca402046f%3A0x24bd9e1486ad4a4d!2sDeva%20krishna%20statue!5e0!3m2!1sen!2sin!4v1653646360428!5m2!1sen!2sin"
                         frameborder="0" style="border: 0; width: 100%; height: 384px" allowfullscreen></iframe>
                 </div>
 
-                <div class="col-lg-6">
+                {{-- <div class="col-lg-6">
                     <form action="forms/contact.php" method="post" role="form" class="php-email-form">
                         <div class="row">
                             <div class="col form-group">
@@ -348,7 +348,7 @@
                             <button type="submit">Send Message</button>
                         </div>
                     </form>
-                </div>
+                </div> --}}
             </div>
         </div>
     </section>
