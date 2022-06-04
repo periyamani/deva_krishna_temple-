@@ -84,8 +84,7 @@ function addFile(event) {
         $(".file_image_show").append(
             '<div class="col-sm-4 mb-3 addremove' +
             addcount +
-            '"><div class="crad text-center" id="file_empty" style="background:#efefef;"><img class="image_align" src="' +
-            tmppath +
+            '"><div class="crad text-center" id="file_empty" style="background:#efefef;"><img class="image_align" src="/' +
             '" id="output"/><hr class="hr_margin"><div class="file_name remove_option">' +
             value +
             '</div><hr class="hr_margin">' +
@@ -205,7 +204,8 @@ function editshowvalue(ID) {
 function removeedit(id) {
     // alert(id);
     $(".remove" + id).remove();
-    // $(".edit_input_old").append('<input type="hidden" name="oldphoto[]">');
+
+    console.log(id);
 }
 
 $(document).ready(function() {
@@ -237,7 +237,7 @@ function editFile(event) {
     }
     myFuncCalls++;
     phovid = value.split(".");
-    if (phovid[1] === "jpg" || phovid[1] === "png") {
+    if (phovid[1] === "jpeg" || phovid[1] === "png") {
         $(".edit_input_file").append(
             '<div class="col-sm-4 mb-3 remove30' +
             myFuncCalls +
@@ -618,3 +618,31 @@ $(".dt-complex-header tbody").on("click", ".delete-record", function() {
         });
     }
 })();
+
+// $(document).ready(function() {
+//   if (window.File && window.FileList && window.FileReader) {
+//     $("#files").on("change", function(e) {
+//       var files = e.target.files,
+//         filesLength = files.length;
+//       for (var i = 0; i < filesLength; i++) {
+//         var f = files[i]
+//         var fileReader = new FileReader();
+//         fileReader.onload = (function(e) {
+//           var file = e.target;
+//           $("<span class=\"pip\">" +
+//             "<img class=\"imageThumb\" src=\"" + e.target.result + "\" title=\"" + file.name + "\"/>" +
+//             "<br/><span class=\"remove\">Remove image</span>" +
+//             "</span>").insertAfter("#files");
+//           $(".remove").click(function(){
+//             $(this).parent(".pip").remove();
+//           });
+
+//         });
+//         fileReader.readAsDataURL(f);
+//       }
+//       console.log(files);
+//     });
+//   } else {
+//     alert("Your browser doesn't support to File API")
+//   }
+// });

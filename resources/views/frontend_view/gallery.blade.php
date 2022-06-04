@@ -566,7 +566,7 @@
             </div>
         </div>
     </section>
-    <section id="services" class="services">
+    <section id="" class="">
 
         <div class="container" data-aos="fade-up">
             <div class="row  list">

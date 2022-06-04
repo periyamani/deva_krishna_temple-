@@ -119,16 +119,18 @@ class GalleryController extends Controller
                    }
                 }
                
-                
-                if($request->hasfile('newphoto')){
-                   
                     if(!empty($input['oldphoto'])){
                         $newphoto = implode(" /",$files);
                         $oldphoto=implode(" /",$input['oldphoto']);
-                        $photovalue=$oldphoto." /".$newphoto;
+                        if($newphoto){
+                            $photovalue=$oldphoto." /".$newphoto;
+                        }else{
+                            $photovalue=$oldphoto;
+                        }
                         $gallery->photo = $photovalue;
                         // dd($photovalue);
                     }else{
+                        if($request->hasfile('newphoto')){
                         $newphoto = implode(" /",$files);
                         $gallery->photo = $photovalue;
                         // dd($newphoto);

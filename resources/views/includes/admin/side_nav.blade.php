@@ -38,7 +38,7 @@
 
 
         <li class="menu-item gallery_page">
-            <a href="/gallery_page" class="menu-link">
+            <a href="/dashboard" class="menu-link">
                 <i class="menu-icon tf-icons bx bx-image-add"></i>
                 <div data-i18n="Gallery">Gallery</div>
             </a>
