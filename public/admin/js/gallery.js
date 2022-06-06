@@ -236,8 +236,9 @@ function editFile(event) {
         return false;
     }
     myFuncCalls++;
-    phovid = value.split(".");
-    if (phovid[1] === "jpeg" || phovid[1] === "png") {
+    // phovid = value.split(".");
+    phovid = value.substr(value.lastIndexOf('.') + 1);
+    if (phovid == "jpeg" || phovid == "png" || phovid == "jpg") {
         $(".edit_input_file").append(
             '<div class="col-sm-4 mb-3 remove30' +
             myFuncCalls +

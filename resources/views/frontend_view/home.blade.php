@@ -297,7 +297,7 @@
                     <div class="info-box mb-4">
                         <i class="bx bx-envelope"></i>
                         <h3>மின்னஞ்சல் முகவரி</h3>
-                        <p>contact@example.com</p>
+                        <p>devakrishnatemple@gmail.com</p>
                     </div>
                 </div>
 

@@ -563,19 +563,13 @@
                         class="portfolio-lightbox preview-link"><img src="frontend_css/assets/img/gallery/g90.jpeg"
                             class="img-fluid" alt="" /></a>
                 </div>
-            </div>
-        </div>
-    </section>
-    <section id="" class="">
 
-        <div class="container" data-aos="fade-up">
-            <div class="row  list">
                 @php $gallery = DB::table('gallery')->where('active', '1')->orderBy('id','desc')->get();@endphp
                 @foreach($gallery as $image)
 
                 @foreach(explode(' /', $image->photo) as $value)
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
                     <a href="{{URL::asset('')}}gallery/{{$value}}" data-gallery="portfolioGallery"
                         class="portfolio-lightbox preview-link"><img src="{{URL::asset('')}}gallery/{{$value}}"
                             class="img-fluid" alt="" /></a>
@@ -587,8 +581,8 @@
                 @endforeach
             </div>
         </div>
-
     </section>
+    
     <!-- End Portfolio Section -->
 
     <!-- ======= Contact Section ======= -->
