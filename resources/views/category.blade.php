@@ -129,7 +129,7 @@
                         <table class="dt-complex-header table table-bordered" style="border-color: #d4d8dd">
                             <thead>
                                 <tr>
-                                    <th>S.No</th>
+                                    <th>Reg.No</th>
                                     <th>Category</th>
                                     <th>Action</th>
                                 </tr>

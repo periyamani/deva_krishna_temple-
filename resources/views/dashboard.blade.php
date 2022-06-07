@@ -180,7 +180,7 @@
                         <form id="festivelform">
                             <div class="row g-2">
 
-                                <div class="col-sm-12 mb-2">
+                                <div class="col-sm-12 mb-0">
 
                                     <label for="emailBasic" class="form-label">Title<span
                                             class="add_title star">*</span></label>
@@ -270,7 +270,7 @@
                     <form id="Editform">
                         <div class="row g-2">
 
-                            <div class="col-sm-12 mb-2">
+                            <div class="col-sm-12 mb-0">
 
                                 <label for="emailBasic" class="form-label">Title <span
                                         class="edd_title star">*</span></label>

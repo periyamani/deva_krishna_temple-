@@ -42,9 +42,7 @@ Route::get('/gallery_page', function () {
 Route::get('/category', function () {
     return view('category');
 })->middleware('auth');
-Route::get('/event', function () {
-    return view('events');
-})->middleware('auth');
+
 
 
 Route::get('/', function () {
