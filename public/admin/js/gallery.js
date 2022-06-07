@@ -430,11 +430,18 @@ function warning() {
 $(document).ready(function() {
     $(".add_title").hide();
     $(".add_des").hide();
+    $(".add_fest").hide();
     $(".gallery_submit").click(function() {
         if ($("#emailBasic").val()) {
             $(".add_title").hide();
         } else {
             $(".add_title").show();
+            return false;
+        }
+        if ($("#select").val()) {
+            $(".add_fest").hide();
+        } else {
+            $(".add_fest").show();
             return false;
         }
         if ($("#nameBasic").val()) {
@@ -448,12 +455,19 @@ $(document).ready(function() {
 
 $(document).ready(function() {
     $(".edd_title").hide();
+    $(".edd_fest").hide();
     $(".edd_des").hide();
     $(".edd_submit").click(function() {
         if ($("#edit_title").val()) {
             $(".edd_title").hide();
         } else {
             $(".edd_title").show();
+            return false;
+        }
+        if ($("#category_id").val()) {
+            $(".edd_fest").hide();
+        } else {
+            $(".edd_fest").show();
             return false;
         }
         if ($("#edit_description").val()) {
