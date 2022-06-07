@@ -69,12 +69,12 @@
 }
 
 .edit_file_remove {
-    padding: 0 39px;
+    padding: 0 39px !important;
 }
 
 .edit_file_remove:hover {
-    padding: 0 39px;
-    background: #d3d3d3d4;
+    padding: 0 39px !important;
+    background: #d3d3d3d4 !important;
 }
 
 .spinner_in {
@@ -151,6 +151,7 @@
                                 <tr>
                                     <th>Reg.No</th>
                                     <th>Gallery Tittle</th>
+                                    <th>Category</th>
                                     <th>Description</th>
                                     <th>Image</th>
                                     <th>Action</th>
@@ -179,18 +180,29 @@
                         <form id="festivelform">
                             <div class="row g-2">
 
-                                <div class="col-sm-12 mb-0">
+                                <div class="col-sm-12 mb-2">
 
                                     <label for="emailBasic" class="form-label">Title<span
                                             class="add_title star">*</span></label>
                                     <input type="text" id="emailBasic" name="title" class="form-control">
 
                                 </div>
-                                <div class="col-sm-6 mb-0">
+                                <div class="col-sm-12 mb-0">
                                     <input type="hidden" id="dobBasic" name="date"
                                         value="<?php date_default_timezone_set('Asia/Calcutta'); echo date("m-d-Y / H:i:s"); ?>"
                                         class="form-control">
                                     <!-- <input type="text" id="flatpickr-date"  name="date" class="form-control"> -->
+                                </div>
+                                <div class="col-sm-12 mb-3">
+                                    <label for="nameBasic" class="form-label">Category<span
+                                            class="add_fest star">*</span></label>
+                                    <select class="form-select" id="select" name="category_id" data-style="btn-default">
+                                        <option value="">Select</option>
+                                        @php $category = DB::table('category')->where('active', '1')->get(); @endphp
+                                        @foreach($category as $fes)
+                                        <option value="{{$fes->id}}">{{$fes->title}}</option>
+                                        @endforeach
+                                    </select>
                                 </div>
 
                             </div>
@@ -258,7 +270,7 @@
                     <form id="Editform">
                         <div class="row g-2">
 
-                            <div class="col-sm-12 mb-0">
+                            <div class="col-sm-12 mb-2">
 
                                 <label for="emailBasic" class="form-label">Title <span
                                         class="edd_title star">*</span></label>
@@ -266,14 +278,25 @@
                                 <input type="text" id="edit_title" name="title" class="form-control">
 
                             </div>
-                            <div class="col-sm-6 mb-0">
+                            <div class="col-sm-12 mb-0">
                                 <!-- <label for="dobBasic" class="form-label">Date</label> -->
                                 <input type="hidden" id="edit_date" name="date"
                                     value="<?php date_default_timezone_set('Asia/Calcutta'); echo date("m-d-Y / H:i:s"); ?>"
                                     class="form-control">
                                 <!-- <input type="text" id="edit_date"  name="date" class="form-control edit_date_datepec"> -->
                             </div>
-
+                            <div class="col-sm-12 mb-3">
+                                <label for="nameBasic" class="form-label">Category<span
+                                        class="edd_fest star">*</span></label>
+                                <select class="form-select" id="category_id" name="category_id"
+                                    data-style="btn-default">
+                                    <option value="">Select</option>
+                                    @php $editcategory = DB::table('category')->where('active', '1')->get(); @endphp
+                                    @foreach($editcategory as $editfes)
+                                    <option value="{{$editfes->id}}">{{$editfes->title}}</option>
+                                    @endforeach
+                                </select>
+                            </div>
                         </div>
                         <div class="row">
                             <div class="col-sm-12 mb-3">

@@ -19,6 +19,7 @@ class GalleryController extends Controller
             $input = $request->all();
             $gallery = new Gallery;
             $gallery->title = $input['title'];
+            $gallery->category_id = $input['category_id'];
             $gallery->description = $input['description']; 
             // dd($gallery); 
             $gallery->date = $input['date']; 
@@ -74,8 +75,14 @@ class GalleryController extends Controller
     public function show(Request $request)
     {
         try {
+            // $input = $request->all();
+            // $gallery = Gallery::orderBy('id', 'DESC')->where('active','1')->get();
+
             $input = $request->all();
-            $gallery = Gallery::orderBy('id', 'DESC')->where('active','1')->get();
+            $gallery = Gallery::orderBy('id', 'DESC')->where('gallery.active','1')
+            ->join('category','category.id','=','gallery.category_id')
+            ->select('gallery.*','category.title as category')
+            ->get();
             // dd($gallery);
             return response()->json($gallery);
         }
@@ -103,6 +110,7 @@ class GalleryController extends Controller
 
             $input = $request->all();
             $gallery =Gallery::find($input['id']);
+            $gallery->category_id = $input['category_id'];
             $gallery->title = $input['title'];
             $gallery->description = $input['description']; 
             // dd($gallery); 

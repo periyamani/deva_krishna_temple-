@@ -44,6 +44,15 @@
             </a>
         </li>
 
+        <li class="menu-item category">
+            <a href="/category" class="menu-link">
+                <i class="menu-icon tf-icons bx bx-archive"></i>
+                <div data-i18n="Category">Category</div>
+            </a>
+        </li>
+
+
+
 
     </ul>
     </li>

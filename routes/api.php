@@ -32,3 +32,9 @@ Route::post('editGallery','App\Http\Controllers\GalleryController@update');
 Route::get('galleryValue','App\Http\Controllers\GalleryController@check');
 Route::delete('deleteGallery','App\Http\Controllers\GalleryController@destroy');
   
+// Category
+Route::post('addCategory','App\Http\Controllers\CategoryController@create');
+Route::get('ShowCategory','App\Http\Controllers\CategoryController@show');
+Route::post('editCategory','App\Http\Controllers\CategoryController@update');
+Route::get('CategoryValue','App\Http\Controllers\CategoryController@check');
+Route::delete('DeleteCategory','App\Http\Controllers\CategoryController@destroy');

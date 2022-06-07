@@ -262,7 +262,7 @@
             </div>
         </div>
         <div class="text-center mt-3">
-            <a href="{{URL::asset('/gallerylist')}}" class="default-btn move-right"><span>View All</span></a>
+            <a href="{{URL::asset('/gallerylist')}}" class="default-btn move-right"><span>அனைத்தையும் காட்டு</span></a>
         </div>
 
     </section>
