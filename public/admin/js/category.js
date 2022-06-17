@@ -334,18 +334,7 @@ function festivaltable() {
                             return meta.row + meta.settings._iDisplayStart + 1;
                         },
                     },
-                    {
-                        data: "title",
-                        render: function(data) {
-                            if (data) {
-                                return data.length > 8 ?
-                                    data.substring(0, 8) + "....." :
-                                    data;
-                            } else {
-                                return "";
-                            }
-                        },
-                    },
+                    { data: "title" },
 
                     {
                         data: null,
